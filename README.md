@@ -1,4 +1,4 @@
-**_Hi,I'm Elizabeth_** 👩‍💻    
+**_Hi,I'm Elizabeth_** 👋  👩‍💻  
 
 ![Blue and White Geometric Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/340e9458-aec6-4312-b72e-d957be5af66b)
 
