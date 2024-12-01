@@ -1,5 +1,5 @@
 # 👩‍💻 **Elizabeth P V**  
-**_Junior Software Engineer | Aspiring Developer_**  
+**_Software Engineer | Aspiring Developer_**  
 
 
 ### 🌟 **About Me**  
