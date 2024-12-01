@@ -4,13 +4,8 @@
 
 
 
-### 🌟 **About Me**  
-software developer specializing in scalable, dynamic applications using C#, ASP.NET, Angular, and SQL Server.
-
-- 🔧 **Backend Expertise:** C#, ASP.NET Core, MVC  
-- 🎨 **Frontend Skills:** Angular, HTML, CSS, Bootstrap  
-- 🐍 **Programming Languages:** Python  
-- 🗄️ **Databases:** SQL Server, Entity Framework  
+### 🌟**About Me**  
+I am a passionate and detail-oriented software developer with expertise in ASP.NET MVC, ASP.NET Core, Angular, and SQL Server. With over a year of professional experience and a solid academic foundation in computer applications, I specialize in developing scalable web applications, dynamic user interfaces, and efficient database solutions.
 
 💡 I enjoy building user-centric applications and solving real-world challenges with clean and efficient code.
 
